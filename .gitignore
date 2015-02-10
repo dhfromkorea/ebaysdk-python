@@ -1,4 +1,6 @@
+*.yaml
 timebay.yaml
+ebay.yaml
 build/
 dist/
 tkebay.yaml
